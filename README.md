@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Dream%20Maker&fontSize=90" />
+
 <!--
 **wsxqead/wsxqead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
