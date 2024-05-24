@@ -1,10 +1,11 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Dream%20Maker&fontSize=80" />
 
 
 🛠 Tech Stack 🛠
-<div align="center">
+
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</div>
+
 ##FrontEnd
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -43,6 +44,7 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwsxqead%2Fhit-counter&count_bg=%23FF9BF8&title_bg=%23767676&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
+</div>
 <!--
 **wsxqead/wsxqead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
