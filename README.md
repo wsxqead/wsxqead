@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dream%20Maker&fontSize=80)
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Dream%20Maker&fontSize=80" />
+
+
+🛠 Tech Stack 🛠
+
+
+🎳 About Me 🎳
+<a href="https://velog.io/@dreammaker/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 <!--
 **wsxqead/wsxqead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
