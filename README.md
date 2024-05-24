@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Dream%20Maker&fontSize=80" />
 
 
@@ -7,6 +5,7 @@
 
 
 🎳 About Me 🎳
+
 <a href="https://velog.io/@dreammaker/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 <!--
